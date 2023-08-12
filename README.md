@@ -1,7 +1,7 @@
 # App Analytics by Junior Phoenix Team
 ## NOTE: I am not able to share frontend and backend codes due to confidentiality agreements.
 
-In the App Analytics project, our team created a comprehensive analytics system tailored for Jotform Apps. This system provides detailed insights (tracking information) into app performance, including day-by-day views and total downloads.
+In the App Analytics project, our team created a comprehensive tracking and analytics system tailored for Jotform Apps. This system provides detailed insights (tracking information) into app performance, including day-by-day views and total downloads.
 
 A key component is the "Traffic" section, displaying user IP addresses, when they visited, locations, and device types. This data informs user behavior and preferences. Interactive visualizations enhance the system's usability. The "Device" section employs a pie chart to break down user engagement by device type, illustrating views, downloads, and percentages. The "Location" part showcases user engagement on a global scale, highlighting countries of app visits and downloads.
 
