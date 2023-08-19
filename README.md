@@ -1,5 +1,4 @@
 # App Analytics by Junior Phoenix Team
-## NOTE: I am not able to share frontend and backend codes due to confidentiality agreements.
 
 In the App Analytics project, our team created a comprehensive real-time tracking and analytics system tailored for Jotform Apps. This system provides detailed insights (tracking information) into app performance, including day-by-day views and total downloads.
 
@@ -13,9 +12,11 @@ In summary, the App Analytics project synergizes data insights and visualization
 
 #### Here is the Figma link of our project: https://www.figma.com/file/Ze4DnhD8vQ1QWVVM26texB/Jr.Phoenix
 
+#### Contributors: Alper Çelik (Backend Developer), Gökmen Özkan (Frontend Developer), Yasir Özcan (UI Developer), Ahmet Loca (Designer)
+
 ---
 
-##### Contributors: Alper Çelik (Backend Developer), Gökmen Özkan (Frontend Developer), Yasir Özcan (UI Developer), Ahmet Loca (Designer)
+### NOTE: I am not able to share frontend and backend codes due to confidentiality agreements.
 
 ---
 ![1](https://github.com/kOOnzTe/app-analytics/assets/53222156/cfd71a13-4808-467e-80fb-0a291cf5159f)
